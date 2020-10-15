@@ -1,0 +1,8 @@
+.itemss>a{
+    font-size: 20px;
+    transition: 0.12s all ease-in;
+}
+.itemss>a:hover{
+    font-size: 24px;
+
+}
